@@ -21,4 +21,4 @@ This project includes:
 
 
 
-*cloned from [justDjango] (https://github.com/justdjango/django_project_boilerplate)
+###### cloned from [justDjango](https://github.com/justdjango/django_project_boilerplate)
