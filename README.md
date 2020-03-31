@@ -1,15 +1,14 @@
-# Django Project Boilerplate
+# Django Boilerplate
 
-This repository is a boilerplate Django project for quickly getting started.
+Django Boilerplate for quickly getting started with django projects.
 
-[![alt text](https://github.com/justdjango/django_project_boilerplate/blob/master/thumbnail.png "Logo")](https://www.youtube.com/watch?v=GEogao-tUec)
-
-## Getting started
+## Getting started with Django Boilerplate
 
 Steps:
 
 1. Clone/pull/download this repository
 2. Create a virtualenv with `virtualenv env` and install dependencies with `pip install -r requirements.txt`
+    ###### The requirements.txt will install the latest version od django. if you want a specific version, you are free to edit the file !
 3. Configure your .env variables
 4. Rename your project with `python manage.py rename <yourprojectname> <newprojectname>`
 
