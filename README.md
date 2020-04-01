@@ -21,4 +21,4 @@ This project includes:
 
 
 
-###### *justDjango
+###### justDjango
